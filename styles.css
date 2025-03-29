@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: #f9f7e8;
+  background-color: #96a6b9;
   position: relative;
 }
 
@@ -39,7 +39,7 @@ body::before {
 }
 
 .browser-bar {
-  background-color: #ff6b6b;
+  background-color: #495780;
   border: 2px solid black;
   border-bottom: none;
   border-radius: 8px 8px 0 0;
@@ -63,15 +63,15 @@ body::before {
 }
 
 .yellow {
-  background-color: #ffd166;
+  background-color: #7081c9;
 }
 
 .green {
-  background-color: #4ecdc4;
+  background-color: #42e25c;
 }
 
 .red {
-  background-color: #ff6b6b;
+  background-color: #337fd6;
 }
 
 .address-bar {
@@ -107,7 +107,7 @@ body::before {
 }
 
 .nav-menu {
-  background-color: #4ecdc4;
+  background-color: #c3e3f7;
   padding: 8px;
   border: 2px solid black;
   border-top: none;
@@ -202,15 +202,15 @@ body::before {
 }
 
 .teal {
-  background-color: #4ecdc4;
+  background-color: #c3e3f7;
 }
 
 .yellow {
-  background-color: #ffd166;
+  background-color: #86aed8;
 }
 
 .pink-bg {
-  background-color: #ff6b6b;
+  background-color: #86aed8;
 }
 
 .card-header {
@@ -266,7 +266,7 @@ body::before {
 .bullet {
   width: 12px;
   height: 12px;
-  background-color: #ffd166;
+  background-color: #5c67c5;
   border: 1px solid black;
 }
 
@@ -307,11 +307,11 @@ body::before {
 }
 
 .yellow-bg {
-  background-color: #ffd166;
+  background-color: #3a88d1;
 }
 
 .teal-bg {
-  background-color: #4ecdc4;
+  background-color: #3ccc95;
 }
 
 .projects-grid {
