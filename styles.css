@@ -281,7 +281,7 @@ body::before {
   border-radius: 8px;
   box-shadow: 4px 4px 0px 0px rgba(0, 0, 0, 1);
   overflow: hidden;
-  background-color: rgb(217, 219, 245);
+  background-color: rgb(223, 225, 243);
 }
 
 .window-content {
